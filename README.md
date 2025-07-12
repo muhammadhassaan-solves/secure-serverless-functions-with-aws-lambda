@@ -20,24 +20,24 @@ I built a Python Lambda function and focused on securing it using IAM roles with
 
 <p align="center">
 Created a Basic Lambda Function <br />
-<img src="https://i.imgur.com/ERQzs4H.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ERQzs4H.jpeg"/>
 <br />
 <br />
 Configured IAM Role with Custom Policies <br/>
-<img src="https://i.imgur.com/aAQjJ5x.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aAQjJ5x.jpeg" />
 <br />
 <br />
 Simulated Unauthorized Access <br/>
-<img src="https://i.imgur.com/bWcEyOA.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bWcEyOA.jpeg" />
 <br />
 <br />
 Simulated Environment Variable Misuse <br/>
-<img src="https://i.imgur.com/A4BRL0U.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A4BRL0U.jpeg"/>
 <br />
 <br />
 Deployed Lambda Inside a VPC
 <br/>
-<img src="https://i.imgur.com/wJ72gEM.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wJ72gEM.jpeg"/>
 <br />
 <br />
 
